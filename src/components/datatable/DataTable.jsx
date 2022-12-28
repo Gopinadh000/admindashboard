@@ -30,7 +30,7 @@ const DataTable = () => {
  
  
   return (
-    <div className='datatable' >
+    <div className='datatable'>
       <div className="dataTableTitle">
         Add New User 
         <Link to="/users/test" style={{textDecoration:"none"}} className="link">Add new</Link>
